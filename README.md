@@ -1,3 +1,3 @@
 `baseBranch` field used:
 
-Expected to migrate it to `baseBranchPatterns` and create PRs targeting the `test` branch.
+Expected to migrate it to `baseBranchPatterns` and create update PRs targeting the `test` branch.
